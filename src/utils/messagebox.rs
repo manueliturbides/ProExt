@@ -78,3 +78,4 @@ pub fn create_dialog(style: MessageBoxStyle, buttons: MessageBoxButtons, caption
 
     return convert_mbresult( unsafe { MessageBoxW(Some(HWND::default()), &text, &caption, style | buttons) });
 }
+
