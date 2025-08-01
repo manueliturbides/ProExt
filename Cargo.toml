@@ -55,3 +55,4 @@ semver = "1.0.24"
 
 [build-dependencies]
 winres = "0.1.12"
+
