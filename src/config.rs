@@ -181,3 +181,4 @@ pub mod ProgramConfig {
         pub const TriggerbotOffEntity: Duration = Duration::from_millis(500);
     }
 }
+
