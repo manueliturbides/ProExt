@@ -65,3 +65,4 @@ pub fn render_watermark(ui: &mut Ui, config: Config) {
             ui.text_colored(watermark_one_color, get_current_time());
         });
 }
+
