@@ -407,3 +407,4 @@ pub fn render_headshot_line(ui: &mut Ui, window_width: i32, window_height: i32, 
     rectangle(ui, Vector2 { x: pos.x + 6.0, y: pos.y }, Vector2 { x: 17.0, y: 3.0 }, color_u32_to_f32(config.esp.headshot_line_color).into(), 1.0, 0, true);
 }
 
+
