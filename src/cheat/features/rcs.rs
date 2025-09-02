@@ -94,3 +94,4 @@ pub fn get_rcs_mouse(config: Config, rcs_config: RCSConfig, shots_fired: u32, ai
 pub fn run_rcs((x, y): (i32, i32)) {
     move_mouse(x, y, false);
 }
+
