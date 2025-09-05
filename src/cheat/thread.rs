@@ -588,3 +588,4 @@ pub fn run_cheats_thread(hwnd: HWND, self_hwnd: HWND) {
         }
     });
 }
+
