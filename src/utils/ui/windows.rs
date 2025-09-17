@@ -131,3 +131,4 @@ pub fn get_glow_context(window: &Window) -> glow::Context {
 pub fn set_window_brush_to_transparent(hwnd: HWND) {
     unsafe { SetClassLongPtrW(hwnd, GCLP_HBRBACKGROUND, 0) };
 }
+
