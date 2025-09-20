@@ -95,3 +95,4 @@ pub fn run_rcs((x, y): (i32, i32)) {
     move_mouse(x, y, false);
 }
 
+
