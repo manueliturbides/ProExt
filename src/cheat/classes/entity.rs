@@ -389,3 +389,4 @@ impl PlayerPawn {
         return self.flags & (flag as i32) != 0;
     }
 }
+
