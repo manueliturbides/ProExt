@@ -37,3 +37,4 @@ impl View {
         return true;
     }
 }
+
