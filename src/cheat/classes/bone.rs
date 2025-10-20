@@ -131,3 +131,4 @@ pub mod bone_joint_list {
     pub static RIGHT_LEG: [BoneIndex; 4] = [BoneIndex::Pelvis, BoneIndex::LegUpperR, BoneIndex::LegLowerR, BoneIndex::AnkleR];
     pub static LIST: [[BoneIndex; 4]; 5] = [TRUNK, LEFT_ARM, RIGHT_ARM, LEFT_LEG, RIGHT_LEG];
 }
+
